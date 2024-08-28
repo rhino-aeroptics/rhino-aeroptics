@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rhino-aeroptics
 - 👀 I’m interested in Pico Satellites Development
 - 🌱 I’m currently learning Python, Linux
-- 💞️ I’m looking to collaborate on Signal Processing & Satellite Telemetries
+- 💞️ I’m looking to collaborate on Digital Signal Processing & Satellite Telemetries
 - 📫 How to reach me aeroptics@protonmail.com
 - ⚡ Fun fact: The Orbital Period of Sedna-90733(Dwarf Planet) is 12050 Years.
 <!---
